@@ -10,11 +10,14 @@ header {
     font-size: 3.5rem;
     font-weight: $base-font-weight-bold;
     color: var(--link-color);
+    
 
     .logosvg {
+	display: hidden;
         height: 3.7rem;
         -webkit-filter: var(--invert-logo-color);
     }
+
 }
 
 .menu {
@@ -90,5 +93,9 @@ header {
         margin: -9rem auto 5rem auto;
         height: 3rem;
       }
+    }
+
+    h1 {
+      font-size: 2rem;
     }
 }
