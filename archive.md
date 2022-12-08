@@ -21,12 +21,12 @@ sitemap:
 #### Sähköposti
 <info@elonvaalijat.fi>
 
+#### Puhelin
+046 572 2543  
+
 #### Postiosoite
-Vellamonkatu 30 B, 3krs.   
+Vellamonkatu 30 B, 3krs.
 00550 Helsinki
 
-#### Tilinumero
-IBAN: FI54 5780 0720 5909 13  
-BIC: OKOYFIHH
 
 </div>

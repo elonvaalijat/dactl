@@ -1,0 +1,28 @@
+Options +Indexes
+Options +MultiViews
+RewriteEngine on
+RewriteBase /
+
+# pass through if the file exists
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ - [L]
+
+# pass anything that ends with .html suffix to avoid loops etc
+RewriteRule ^ (.*)/.html$ - [L]
+
+# Posts start with year.
+# match a trailing slash, but omit it from the destination
+RewriteRule ^posts/(.*)\/$ $1.html [R=301,L]
+# tack html onto anything else
+RewriteRule ^posts/(.*)$ $1.html [R=301,L]
+
+
+#$ {SERVER_NAME}posts/$1.html [R=301,L]
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_URI} !(\.[a-zA-Z0-9]{1,5}|/)$
+#RewriteRule (.*)$ /$1/ [L,R=301]
+
+#RewriteRule [^/]$ %{REQUEST_URI}.html [QSA,L]  
+
+#RewriteRule ^(.*)\.html$ $1 [QSA]

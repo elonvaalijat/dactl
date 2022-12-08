@@ -145,7 +145,7 @@
 
   a {
     font-size: $lead-font-size;
-    color: var(--link-color);
+    color: $link-color;
     @include border-slide(left);
   }
 

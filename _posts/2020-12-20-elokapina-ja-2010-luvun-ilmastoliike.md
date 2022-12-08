@@ -8,5 +8,5 @@ tags:
 hero: 'uploads/elokapina.jpg'
 overlay: orange
 link: 'https://elokapina.me'
-published: true
+published: false
 ---
