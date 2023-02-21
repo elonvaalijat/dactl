@@ -4,6 +4,6 @@ sitemap:
   exclude: 'yes'
 ---
 User-agent: *
-Disallow:
+Disallow: 
 
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: http://elonvaalijat.fi/sitemap.xml

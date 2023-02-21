@@ -1,21 +1,21 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "" # the base hostname & protocol for your site
+url                          : "https://elonvaalijat.fi" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : Elonvaalijat
   description                  : >
-                               this should contain a proper description
+                               Elonvaalijat ry:n kotisivut.
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+#  logo_path                  : "" # path to logo file
+  search_path                : # ""
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
-  hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
-  excerpts                   : true # show excerpts instead of full post content on blog page
+  hero_placeholder           : "uploads/unsplash_leaf.jpg" # placeholder for hero image
+  excerpts                   : false # show excerpts instead of full post content on blog page
   inline_footnotes           : true # enable/disable barefoot inline footnotes
   titles_only                : false # show post titles only on main blog page
 
@@ -26,14 +26,14 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
-  rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  fullname                  : Elonvaalijat ry
+  rss                       : false # generate RSS feed and show it's icon in header
+  mail                      : info@elonvaalijat.fi # change to your e-mail address
+  twitter                   : false
+  github                    : false
+  youtube                   : false
+  stackoverflow             : false
+  disqus                    : false
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
