@@ -14,7 +14,7 @@ published: true
 
 ## Kutsu kokoukseen
 
-Elonvaalijat ry:n vuoden 2022-2023 toimikauden päättävä vuosikokous pidetään 26.02.2023 etänä jitsissä. Kokous alkaa klo 15.
+Elonvaalijat ry:n vuoden 2022-2023 toimikauden päättävä vuosikokous pidetään 05.03.2023 etänä jitsissä. Kokous alkaa klo 14.
 Lisätiedot ja esityslista löytyvät kutsusta, joka on lähetetty jäsenille sähköpostitse. Jos haluat tulla mukaan toimintaan tai sinulla on kysyttävää käytännönjärjestelyistä, ota yhteyttä info@elonvaalijat.fi
 
 Elonvaalijoiden toimintaa voit myös kannattaa [liittymällä kannatusjäseneksi](https://elonvaalijat.fi/posts/mukaan-kannatusjaseneksi).
