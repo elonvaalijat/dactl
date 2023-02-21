@@ -9,8 +9,8 @@ header {
 .logo {
     font-size: 3.5rem;
     font-weight: $base-font-weight-bold;
-    color: var(--link-color);
-    
+    color: $link-color;
+
 
     .logosvg {
 	display: hidden;
