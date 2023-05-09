@@ -51,8 +51,12 @@ Tarkoituksensa toteuttamiseksi yhdistys seuraa ympäristölainsäädäntöä sek
 
 ---
 
-## Rahankeruu
+## Varainkeruu
 Toimintansa tukemiseksi yhdistys voi ottaa vastaan lahjoituksia, testamentteja ja avustuksia, omistaa irtainta, kiinteää omaisuutta sekä toimeenpanna asianomaisen luvan saatuaan arpajaisia, myyjäisiä ja keräyksiä. Yhdistys voi lisäksi hakea joukkorahoitusta tai muuta yhdistykselle soveltuvaa rahoitusta.
+
+* Täältä löydät [yhdistyksen säännöt kokonaisuudessaan](/uploads/Elonvaalijat_saannot.pdf)
+
+---
 
 ## Mikä on Elonvaalijoiden suhde Elokapinaan?
 Elonvaalijat ry on yksittäisten henkilöiden elokuussa 2019 perustama itsenäinen yhdistys, joka tukee Elokapinan toimintaa mm. hallinnoimalla henkilörekisterejä ja mahdollistamalla luvanvaraisen varainkeruun. Elonvaalijoilla ei ole valtaa Elokapinan päätöksenteossa, eikä yhdistys osallistu Elokapinan toiminnan suunnitteluun. Kuten Elokapina, myös Elonvaalijat on puoluepoliittisesti sitoutumaton.
