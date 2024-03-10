@@ -19,6 +19,39 @@ sitemap:
 
 ---
 
+11.3.2024
+
+Lehdistötiedote - vapaa julkaistavaksi heti
+
+# Syyttäjä perui viime hetkellä Elokapinan tukiyhdistyksen rahankeräysrikossyytteen
+
+**Helsingin käräjäoikeuden oli määrä 13.-15.3. käsitellä Elonvaalijat ry:n rahankeräysrikossyytteitä, mutta syyttäjä perui vain viikkoa ennen käsittelyä syytteensä. Syyttäjä ajaa nyt lievempää syytettä, jonka nimike on väärän todistuksen antaminen viranomaiselle. Elonvaalijat kritisoivat syyttäjää rikoslain politisoimisesta.**
+
+Elonvaalijoiden hallituksen mielestä syyttäjän ja poliisin toiminnassa on kyse paitsi Elokapinan toiminnan tukahduttamisesta myös suomalaisten mielenosoitusoikeuden kaventamisesta. Oikeudenkäynnillä poliisi ja syyttäjä pyrkivät vahvistamaan väärää kokoontumislain tulkintaa, jonka mukaan tieblokkimielenosoitukset olisivat lähtökohtaisesti laittomia eikä niitä harjoittavia liikkeitä saa rahoittaa. Rauhanomaiset tieblokkimielenosoitukset nauttivat Euroopan ihmisoikeussopimuksen, YK:n kansalais- ja poliittisia oikeuksia koskevan sopimuksen sekä Suomen perustuslaissa turvatun kokoontumisvapauden suojaa.​​​​​​​
+
+"Elonvaalijoiden pienkeräyksin rahoittamissa kesä- ja syyskapinassa 2021 on ollut kyse rauhanomaisesta mielenosoittamisesta, ja olemme antaneet poliisille riittävät tiedot pienkeräyksien kohteista. Se ei ole vastuullisena lupaviranomaisena missään vaiheessa ilmoitus- ja tilitysprosessia vaatinut lisätietoja pienkeräyksien kohteista. Sen sijaan meihin kohdistettiin syyskapinan aikaan rikosepäily, jonka perusteella koko yhdistyksen omaisuus takavarikoitiin. Varamme ovat edelleen takavarikossa, emmekä ole syyskapinan jälkeen enää kyenneet keräämään rahaa", Elonvaalijoiden puheenjohtaja Lauri Kangassalo kommentoi.
+
+Elonvaalijat ovat kirjelmöineet poliisin yrityksistä tukahduttaa ympäristöaktivismia rahankeräyslain avulla YK:n ihmisoikeusneuvostolle vuonna 2022. Elonvaalijoiden konsultoimien oikeusoppineiden mukaan rahankeräyslaki on erityisen altis strategisille häirintäkanteille yhteiskunnallista toimintaa vastaan. Amnestyn tuore raportti toteaa poliisin käyttävän rahankeräyslakia Elokapinan toiminnan tukahduttamiseksi. Raportissa viitataan mm. Helsingin poliisin tekemiin pienkeräyksiä koskeviin kieltopäätöksöksiin, joilla se kielsi sumutusoikeudenkäynnin asianomistajia järjestämästä pienkeräystä oikeudenkäyntikulujensa kattamiseksi. Tammikuussa 2024 Helsingin hallinto-oikeus kumosi Helsingin poliisin tekemät pienkeräyksiä koskevat kieltopäätökset lainvastaisina.
+
+YK:n pääsihteerin toimisto ja ympäristöpuolustajien erityisraportoija Michel Forst tunnistavat ilmastoaktivismin rikollistamisen uhan. He ovat vaatineet Euroopan valtioita säilyttämään rauhanomaisten ilmastoaktivistien toimintamahdollisuudet. Forstin mukaan vuosikymmeniä tiedossa olleeseen ympäristöhätätilaan ei voida puuttua, jos ilmastotoimia vaativat hiljennetään.
+
+"Jutulla voi olla kauaskantoisia vaikutuksia. Käräjäoikeuden päätös lähettää viestin suomalaiselle kansalaisyhteiskunnalle. Toivottavasti ratkaisu on tarkkaan punnittu ja Suomen kansainvälisten ihmisoikeussopimusvelvoitteiden mukainen. Suomi rikkoo tällä hetkellä omaa ilmastolakiaan, joten on täysin perusteltua protestoida", Elonvaalijoiden hallituksen jäsen Lotta Hyvärinen päättää.
+
+#### Taustatietoja
+
+* Asianajajaliitto (2023): https://asianajajaliitto.fi/2023/11/eit-hollanti-rikkoi-oikeutta-rauhanomaiseen-kokoontumiseen-rankaisemalla-talovaltaukseen-liittyvaan-mielenosoitukseen-osallistuneita/
+* Elonvaalijat (2022): https://elonvaalijat.fi/uploads/elonvaalijat_um_lausunto_D6L56D3-22.pdf
+* Michel Forst (2024): https://unece.org/sites/default/files/2024-02/UNSR_EnvDefenders_Aarhus_Position_Paper_Civil_Disobedience_EN.pdf
+* UN Human Rights Committee (2020): https://documents.un.org/doc/undoc/gen/g20/232/15/pdf/g2023215.pdf?token=o7cPtM1Bc6NhrTvM2h&fe=true
+* YLE (2024): https://yle.fi/a/74-20077043
+
+#### Haastattelypyynnöt ja lisätiedot
+[info@elonvaalijat.fi](mailto:info@elonvaalijat.fi)
+
+
+---
+
+
 22.10.2021
 
 Lehdistötiedote - vapaa julkaistavaksi heti
