@@ -4,7 +4,7 @@ title: Yhteystiedot
 permalink: /yhteystiedot/
 published: true
 weight: 5
-sitemap: 
+sitemap:
   priority: 0.9
 ---
 
@@ -20,9 +20,6 @@ sitemap:
 
 #### Sähköposti
 <info@elonvaalijat.fi>
-
-#### Puhelin
-046 572 2543  
 
 #### Postiosoite
 Vellamonkatu 30 B, 3krs.
