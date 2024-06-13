@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lahjoita rahaa Elokapinan Myrskyvaroitukseen Elonvaalijoiden pienkeräyksellä"
+title:  "Lahjoita rahaa Elokapinan syksyn kampanjaan Elonvaalijoiden pienkeräyksellä"
 date: 2024/06/13
 tags:
   - ilmastokriisi
