@@ -23,11 +23,11 @@ Kopioi tai kirjoita tilisiirtoon seuraavat tiedot:
 2. Vastaanottajan tilinumero: FI54 5780 0720 5909 13
 3. Viitenumero: 2024
 
-Elonvaalijat ry:n yhteystiedot
-Verkkosivut: elonvaalijat.fi
-Sähköposti: info@elonvaalijat.fi
-Postiosoite: Vellamonkatu 30 B, 3krs. 00550 Helsinki
-Pienkeräysnumero: RA/2024/982
+**Elonvaalijat ry:n yhteystiedot**
+Verkkosivut: elonvaalijat.fi  
+Sähköposti: info@elonvaalijat.fi  
+Postiosoite: Vellamonkatu 30 B, 3krs. 00550 Helsinki  
+Pienkeräysnumero: RA/2024/982  
 
 ---
 
