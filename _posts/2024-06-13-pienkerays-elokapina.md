@@ -23,8 +23,8 @@ Mikäli kaikkia lahjoituksia ei saada käytettyä kampanjan järjestämiseen, ne
 
 ## Näin teet lahjoituksen Mobilepaylla
 1. **Avaa Mobilepay-sovellus puhelimessasi**
-2. **Paina 'Lähetä' ja kirjoita keräystunnus #14514** tai paina **Skannaa** ja lue **QR-koodi** alta:
-![](uploads/qr-koodi-14514.png)
+2. **Paina 'Lähetä' ja kirjoita keräystunnus #14514** tai **paina 'Skannaa' ja lue QR-koodi alta**:
+![](/uploads/qr-koodi-14514.png)
 3. **Kirjoita haluamasi summa (enintään 500€) ja paina 'Jatka'**
 
 ## Näin teet lahjoituksen tilisiirrolla
@@ -47,8 +47,8 @@ Would you like to financially support Elokapina's activities? You can now donate
 
 ### How to make a donation via Mobilepay
 1. **Open the Mobilepay app on your phone**
-2. **Press 'Send' and enter the collection code #14514** or press **Scan** and read the **QR code** below:
-![](uploads/qr-koodi-14514.png)
+2. **Press 'Send' and enter the collection code #14514** or press '**Scan**' and read the **QR code** below:
+![](/uploads/qr-koodi-14514.png)
 3. **Enter the amount you want (up to €500) and press 'Continue'**
 
 ### How to make a donation via bank transfer
