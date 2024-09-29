@@ -35,8 +35,7 @@ Käräjäoikeuden tuomiossa todetaan, että Elokapinan mielenosoitukset nauttiva
 
 "Tällaisten uutisten myötä on kevyt mieli jatkaa kevättä ja toimintaa. Erityisen iloisen päätöksestä tekee tietenkin se, että kaikkien asiakokonaisuuden vastaajien syytteet kaatuivat," Elonvaalijoiden vuoden 2021 hallituksen puheenjohtaja Lotta Hyvärinen toteaa. "Elonvaalijoiden syyte asettuu laajempaan kuvaan, jossa on kyse useista poliisin nostamista rikollistamisepäilyistä Elokapinaa kohtaan. Kaikilla on ollut heikot perusteet, mikä näkyy myös tuomioiden lopputuloksessa." Hyvärinen lopettaa.
 
-#### Haastattelypyynnöt ja lisätiedot  
-Lotta Hyvärinen, 045 636 2333  
+#### Haastattelypyynnöt ja lisätiedot
 [info@elonvaalijat.fi](mailto:info@elonvaalijat.fi)
 
 
