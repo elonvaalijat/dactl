@@ -28,7 +28,7 @@ Kopioi tai kirjoita tilisiirtoon seuraavat tiedot:
 
 1. **Vastaanottajan nimi:** Elonvaalijat ry
 2. **Vastaanottajan tilinumero:** FI27 5780 0720 5865 49
-3. **Viitenumero:** 2025
+3. **Viitenumero:** 1122
 4. **Määrä, jonka haluat lahjoittaa:** 0-350€ 
 
 ## Käyttötarkoitus
@@ -57,7 +57,7 @@ Would you like to financially support Elokapina's activities? You can now donate
 Copy or write the following information to the bank transfer:
 1. Recipient's name: Elonvaalijat ry
 2. Recipient's SEPA account number: FI27 5780 0720 5865 49
-3. Reference number: 2025
+3. Reference number: 1122
 4. The amount you want to donate (up to €350) 
 
 ### Purpose of use
