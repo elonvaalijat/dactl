@@ -14,7 +14,8 @@ published: true
 
 Tue suomalaista ilmastoaktivismia lahjoittamalla Elonvaalijat ry:lle!
 
-Lahjoita tekemällä tilisiirto seuraavilla tiedoilla:\
+Lahjoita tekemällä tilisiirto seuraavilla tiedoilla:
+
 Tilinumero: **FI27 5780 0720 5865 49**\
 Saaja: **Elonvaalijat ry**\
 Viite: **7773**
