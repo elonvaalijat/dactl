@@ -14,12 +14,23 @@ published: true
 
 Tue suomalaista ilmastoaktivismia lahjoittamalla Elonvaalijat ry:lle!
 
-Lahjoita tekemällä tilisiirto seuraavilla tiedoilla:
+
+### Lahjoita MobilePaylla
+1. **Avaa Mobilepay-sovellus puhelimessasi**
+2. **Paina 'Lähetä' ja kirjoita keräystunnus #42816** tai **paina 'Skannaa' ja lue QR-koodi alta**:
+![](/uploads/qr-koodi-42816.png)
+3. **Kirjoita haluamasi summa ja paina 'Jatka'**
+
+
+### Lahjoita tilisiirrolla
+Kopioi tai kirjoita tilisiirtoon seuraavat tiedot:
 
 Tilinumero: **FI27 5780 0720 5865 49**\
 Saaja: **Elonvaalijat ry**\
 Viite: **7773**
 
+
+### Käyttötarkoitus
 Kerätyt varat käytetään Elokapinan ja muiden toimijoiden harjoittamaan ympäristö- ja ilmastoaktivismiin Suomessa. Keräysvaroja käytetään:
 
 - Yleisten kokousten, mielenosoituksien, taideperformassien ja yleisötilaisuuksien järjestämisestä koituviin kustannuksiin
