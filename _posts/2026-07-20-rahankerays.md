@@ -16,7 +16,7 @@ Tue suomalaista ilmastoaktivismia lahjoittamalla Elonvaalijat ry:lle!
 
 
 ### Lahjoita MobilePaylla
-1. Avaa Mobilepay-sovellus puhelimessasi
+1. Avaa MobilePay-sovellus puhelimessasi
 2. Paina 'Lähetä' ja kirjoita keräystunnus **#42816** tai paina 'Skannaa' ja lue QR-koodi alta:
 ![](/uploads/qr-koodi-42816.png){:.qr-code }
 3. Kirjoita haluamasi summa ja paina 'Jatka'
